@@ -1,2 +1,3 @@
-# Flappy-Bird
-Flappy Bird game using python3 and pygame
+# Flappy-bird
+use space bar to fly 
+if you hit the pipes game will be over
