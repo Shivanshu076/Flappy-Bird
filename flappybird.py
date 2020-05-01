@@ -218,7 +218,7 @@ while g.run:
    g.run()
 """
 import pygame                                           #Importing the pygame library
-import random
+import random                                           #Importing the random library
 
 pygame.init()
 
